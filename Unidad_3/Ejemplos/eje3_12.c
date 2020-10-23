@@ -9,3 +9,4 @@ int main() {
     printf("el numero de bytes que ocupa el tipo entero es %d\n", sizeof(int));
     printf("el numero de bytes que ocupa el tipo double es %d\n", sizeof(double));
     return 0;
+}

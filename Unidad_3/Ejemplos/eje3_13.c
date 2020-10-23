@@ -3,8 +3,8 @@
 
 int main() {
     float perim, radio; int dos = 2;
-    printf("Calcula el perimetro de la circunferencia\n", n);
-    printf("Indique el tamaño de la circunferencia: \n", n);
+    printf("Calcula el perimetro de la circunferencia\n");
+    printf("Indique el tamaño de la circunferencia: \n");
     scanf("%f", &radio);
     perim = dos * PI * radio;
     printf("\nEl perimetro de la circunferencia es %f\n", perim);
